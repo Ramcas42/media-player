@@ -1,1 +1,1 @@
-# Media Player built with Platzi's Course
+# Media Player built with Platzi's  Javascript Course
